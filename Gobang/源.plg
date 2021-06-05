@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Դ - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\WWW\AppData\Local\Temp\RSP847E.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Դ.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\WWW\Documents\Tencent Files\3312976534\FileRecv\wuziqi\Project1\Project1\Դ.cpp"
+]
+Creating command line "cl.exe @C:\Users\WWW\AppData\Local\Temp\RSP847E.tmp" 
+Creating temporary file "C:\Users\WWW\AppData\Local\Temp\RSP847F.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Դ.pdb" /debug /machine:I386 /out:"Debug/Դ.exe" /pdbtype:sept 
+".\Debug\Դ.obj"
+]
+Creating command line "link.exe @C:\Users\WWW\AppData\Local\Temp\RSP847F.tmp"
+<h3>Output Window</h3>
+Compiling...
+Դ.cpp
+C:\Users\WWW\Documents\Tencent Files\3312976534\FileRecv\wuziqi\Project1\Project1\Դ.cpp(5) : warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\WWW\Documents\Tencent Files\3312976534\FileRecv\wuziqi\Project1\Project1\Դ.cpp(398) : warning C4552: '-' : operator has no effect; expected operator with side-effect
+Linking...
+
+
+
+<h3>Results</h3>
+Դ.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
